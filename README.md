@@ -23,10 +23,11 @@ Currently, I split my time between France for my studies and Moncton, New Brunsw
 **Software Engineering**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
@@ -42,6 +43,7 @@ Currently, I split my time between France for my studies and Moncton, New Brunsw
 ![Automation](https://img.shields.io/badge/Automation-FF5722?style=flat&logo=arduino&logoColor=white)
 ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic_(Step7)-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+![Gurobi](https://img.shields.io/badge/Gurobi-FF6600.svg?style=flat&logo=gurobi&logoColor=white)
 
 ---
 
